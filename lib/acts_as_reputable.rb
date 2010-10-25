@@ -1,1 +1,1 @@
-# ActsAsReputable
+require File.join(File.dirname(__FILE__), "acts_as_reputable/engine")
